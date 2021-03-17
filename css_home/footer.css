@@ -1,0 +1,15 @@
+footer{
+    width: 100%;
+    }
+    
+.textofooter {
+    padding-top: 8px;
+    width: 100%;
+    font-family: cursive;
+    text-align: center;
+    color: beige;
+    font-size: 15px;
+    background-color: rgb(2, 50, 139);
+    height: 100px;
+}
+    
